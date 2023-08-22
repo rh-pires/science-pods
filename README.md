@@ -12,11 +12,11 @@ The main goal of **Science Pods** is to make a contribution towards scientific l
 
 Taking advantage of the widespread use of 3D printers at schools and in the home environment, we wish to become a resource for institutions such as schools, as well as for interested individuals, to make demonstrations of scientific concepts more easily available, and to further entice critical thinking.
 
-## The way through
+## How to do it
 
 To achieve these goals we will be observing the principles of open source sharing, and using tools and methods that enable easy access to content through freely available software.
 
-In addition, **Science Pods** will strive to adopt concepts of shared design language and modularity. Parts downloaded through the **Science Pods** project are expected to have consistency in the design language of features, so that two or more parts that contain features that enable the exact same function should have the same design - unless other constrains or considerations play a relevant role. In other words, we wish to create a system of parts with a high level of modularity in their design, making mixing and matching easier to develop new parts, which in turn enable 
+In addition, **Science Pods** will strive to adopt concepts of shared design language and modularity. Parts downloaded through the **Science Pods** project are expected to have consistency in the design language of features, so that two or more parts that contain features that enable the exact same function should have the same design - unless other constrains or considerations play a relevant role. In other words, we wish to create a system of parts with a high level of modularity in their design, making mixing and matching easier to develop new parts inside a CAD software, but also making it more straightforward to connect pieces once they are printed.
 
 There are many sites and platforms that showcase a myriad of 3D models associated to scientific concepts (e.g., 3D models or organs, cells, molecules, etc.). The **Science Pods** project is not intended to develop along those lines.
 
